@@ -12,7 +12,7 @@ github_repo: "https://github.com/grcyh/grcyh.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "——联赛钦定退役选手"
-sidebar-avatar: /img/tou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tou.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
